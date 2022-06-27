@@ -1,0 +1,16 @@
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\Neuron on CSharp.exe
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\Neuron on CSharp.deps.json
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\Neuron on CSharp.runtimeconfig.json
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\Neuron on CSharp.runtimeconfig.dev.json
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\Neuron on CSharp.dll
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\ref\Neuron on CSharp.dll
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\bin\Debug\net5.0\Neuron on CSharp.pdb
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.dll
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\ref\Neuron on CSharp.dll
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.pdb
+C:\Users\Arthur\source\repos\Neuron on CSharp\Neuron on CSharp\obj\Debug\net5.0\Neuron on CSharp.genruntimeconfig.cache
